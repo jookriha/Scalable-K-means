@@ -25,4 +25,4 @@ Please cite following paper:
  - [Joonas Hämäläinen](https://github.com/jookriha)
 
 
-[1]: <link to the paper here>
+[1]: https://arxiv.org/abs/2007.11937
